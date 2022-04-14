@@ -1,0 +1,4 @@
+hello world
+Process returned 0 (0x0)   execution time : 3.069 s
+Press any key to continue.
+
